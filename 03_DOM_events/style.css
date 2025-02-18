@@ -1,0 +1,23 @@
+/* h1 {
+    color: aquamarine;
+    background-color: brown;
+} */
+
+/* #heading {
+    color: aquamarine;
+    background-color: brown;
+} */
+
+.myclass {
+    color: aquamarine;
+    background-color: brown;
+}
+
+body {
+    background-color: bisque;
+}
+
+button {
+    color: brown;
+    background-color: aquamarine;
+}
